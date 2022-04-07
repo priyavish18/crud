@@ -1,0 +1,2 @@
+class Brticle < ApplicationRecord
+end
